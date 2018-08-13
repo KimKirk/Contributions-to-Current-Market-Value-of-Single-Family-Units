@@ -1,9 +1,8 @@
-# Contributions-to-Current-Market-Value-of-Single-Family-Units-Finance-Housing
-- All files are self-contained analysis reports that include necessary variables. 
-
-- Many businesses still use Excel as a primary "database"/data storage device; to accomodate this, all files are Excel based and analysis was run using Excel. 
-
+# Contributions-to-Current-Market-Value-of-Single-Family-Units
+- Finance: Housing
 - Inferential data analysis was conducted using multivariate linear regression to determine factors that influence current market value of single family housing units for 2013.
+- All files are self-contained analysis reports that include necessary variables. 
+- Many businesses still use Excel as a primary "database"/data storage device; to accomodate this, all files are Excel based and analysis was run using Excel. 
 
 ## Processing Instructions:
 - Use Excel or application that can open .xlsx files to view the analysis report. 
