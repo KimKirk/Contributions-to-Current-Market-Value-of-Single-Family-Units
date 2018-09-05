@@ -5,6 +5,7 @@
 
 ## Processing Instructions:
 - Data Analysis is in pdf. Here: https://drive.google.com/file/d/1s8KiauTb_czfBtc8nFSTezJrqVk33zky/view?usp=sharing 
+    - Please download if Google Drive does not stream a preview of the document to you.
 - Data Analysis Report is in pdf.
 - Codebook is in pdf.
 
