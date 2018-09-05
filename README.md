@@ -2,11 +2,9 @@
 - Finance: Housing
 - Inferential data analysis was conducted using multivariate linear regression to determine factors that influence current market value of single family housing units for 2013.
 - All files are self-contained analysis reports that include necessary variables. 
-- Many businesses still use Excel as a primary "database"/data storage device; to accomodate this, all files are Excel based and analysis was run using Excel. 
 
 ## Processing Instructions:
-- Use Excel or application that can open .xlsx files to view the analysis report. 
-- Each worksheet is labeled to include "Summary Report", "Descriptive Statistics", "Graphs & Charts", and "Statistical Test".
+- Data Analysis is in pdf. Here: https://drive.google.com/file/d/1s8KiauTb_czfBtc8nFSTezJrqVk33zky/view?usp=sharing 
 - Data Analysis Report is in pdf.
 - Codebook is in pdf.
 
