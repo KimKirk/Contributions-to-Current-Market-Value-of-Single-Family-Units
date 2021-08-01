@@ -1,6 +1,6 @@
 # Contributions-to-Current-Market-Value-of-Single-Family-Units
 - Finance: Housing
-- Inferential data analysis was conducted using multivariate linear regression to determine factors that influence current market value of single family housing units for 2013.
+- Inferential data analysis was conducted using multivariable linear regression to determine factors that influence current market value of single family housing units for 2013.
 
 ## Processing Instructions:
 - [Data Analysis in pdf](https://drive.google.com/file/d/1s8KiauTb_czfBtc8nFSTezJrqVk33zky/view?usp=sharing)
